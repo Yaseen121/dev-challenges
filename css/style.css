@@ -22,3 +22,9 @@ h1 {
     background-color: #281B2D;
     border-bottom: 10px solid #00C54C;
 }
+
+.container {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
