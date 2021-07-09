@@ -44,3 +44,16 @@ h1 {
 .col-right {
     margin-left: 25px;
 }
+
+.sidebar {
+    background-color: #9AE84F;
+    padding: 15px;
+}
+
+h2 {
+    margin-top: 0px;
+}
+
+a:hover {
+    color: #9138B7;
+}
